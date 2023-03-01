@@ -1,0 +1,11 @@
+{
+  "uuid": "%uuid%",
+  "name": "Anti Server Timeout",
+  "mainClass": "net.labymod.addons.Wector11211.AntiServerTimeout.AntiServerTimeoutAddon",
+  "transformerClass": "net.labymod.addons.Wector11211.AntiServerTimeout.ASM.TimeoutTransformer",
+  "description": "Allows to change read timeout on client to prevent kicking from a server while debugging.",
+  "version": 0.1,
+  "author": "Wector11211",
+  "category": 2,
+  "icon": "https://i.imgur.com/EuMdJ59.png"
+}
